@@ -1,0 +1,9 @@
+.vscode/
+.ipynb_checkpoints/
+.Rhistory
+.Rproj.user
+test_spectra/set1/baseline_corrected
+test_spectra/set1/sorted_spectra
+test_spectra/set2/baseline_corrected
+test_spectra/set2/sorted_spectra
+
